@@ -44,7 +44,7 @@ To do this you just need to add a `>` at the beginning of the line of text.
 
 GitHub also supports the use of Emoji... that should make you 😁
 
-### Summary of On-Page-SEO Elements
+### Summary of On-Page Elements
 
 1. Written Content
 2. Images with ALT text
