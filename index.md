@@ -34,7 +34,7 @@ You can also see this image [here](https://creatal.github.io/freelance-seo/SEO-E
 
 ### Using Links for SEO
 
-It is also a goog idea to add internal links and external links if you want to follow SEO best effort to make sure your page has the most impact.
+It is also a good idea for search engine optimisation on your pages to add internal links and external links, if you want to follow SEO best effort to make sure your page has the most impact.
 
 ### Summary of On-Page-SEO Elements
 
