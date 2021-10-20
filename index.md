@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Freelance SEO
 
-You can use the [editor on GitHub](https://github.com/creatal/freelance-seo-brighton/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the Search Engine Optimisation (SEO) to maintain and improve your website ranking in Google and other search engines. You can do this yourself, employ an SEO agency or if you are in the area you could use [Freelance SEO Brighton](https://consultantsussex.com/wordpress-websites/wordpress-seo/) to do all the hard work for you.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
