@@ -46,14 +46,14 @@ GitHub also supports the use of Emoji... that should make you 😁
 
 ### Summary of On-Page Elements
 
-1. Written Content
-2. Images with ALT text
-3. Other media like video
-4. Bullet or numbered lists
-5. Quotes with correct formatting
-6. External Links
-7. Internal Links
-8. H1/H2/H3 heading formatting
+1. Written Content [x]
+2. Images with ALT text [x]
+3. Other media like video [ ]
+4. Bullet or numbered lists [x]
+5. Quotes with correct formatting [x]
+6. External Links [x]
+7. Internal Links [x]
+8. H1/H2/H3 heading formatting [x]
 
 ### Freelance SEO Support
 
