@@ -36,6 +36,17 @@ You can also see this image [here](https://creatal.github.io/freelance-seo/SEO-E
 
 It is also a goog idea to add internal links and external links if you want to follow SEO best effort to make sure your page has the most impact.
 
+### Summary of On-Page-SEO Elements
+
+1. Written Content
+2. Images with ALT text
+3. Other media like video
+4. Bullet or numbered lists
+5. Quotes with correct formatting
+6. External Links
+7. Internal Links
+8. H1/H2/H3 heading formatting
+
 ### Freelance SEO Support
 
 Having trouble with Freelance SEO? Check out our [blog](https://consultantsussex.com/feed-your-head/) where you will find lots of useful information all about Search Engine Optimisation and get in touch when you're ready, so we can help you sort out your [search engine optimisation](https://consultantsussex.com/wordpress-websites/wordpress-seo/).
