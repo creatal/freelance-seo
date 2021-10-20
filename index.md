@@ -2,11 +2,9 @@
 
 You can use the Search Engine Optimisation (SEO) to maintain and improve your website ranking in Google and other search engines. You can do this yourself, employ an SEO agency or if you are in the area you could use [Freelance SEO Brighton](https://consultantsussex.com/wordpress-websites/wordpress-seo/) to do all the hard work for you.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Markdown for SEO
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is used a lot in [Digital Marketing](https://linktr.ee/creatal) a lightweight and easy-to-use syntax for styling your writing. In GitHub pages it includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -27,10 +25,6 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/creatal/freelance-seo-brighton/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
