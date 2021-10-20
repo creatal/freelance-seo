@@ -4,7 +4,7 @@ You can use the Search Engine Optimisation (SEO) to maintain and improve your we
 
 ### Markdown for SEO
 
-Markdown is used a lot in [Digital Marketing](https://linktr.ee/creatal) a lightweight and easy-to-use syntax for styling your writing. In GitHub pages it includes conventions for
+Markdown is used a lot in [Digital Marketing](https://linktr.ee/creatal) a lightweight and easy-to-use syntax for styling your writing. In GitHub pages it includes conventions for:
 
 ```markdown
 Syntax highlighted code block
@@ -24,8 +24,8 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [GitHub Flavoured Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Support or Contact
+### Freelance SEO Support
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Freelance SEO? Check out our [blog](https://consultantsussex.com/feed-your-head/) where you will find lots of useful information all about Search Engine Optimisation and get in touch when you're ready, so we can help you sort it out.
