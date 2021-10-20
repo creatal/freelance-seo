@@ -26,6 +26,11 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavoured Markdown](https://guides.github.com/features/mastering-markdown/).
 
+### Using Images for SEO
+It is always good to include different types of media on your web pages for improved SEO. Like the once below which also includes an ALT tag with optimised content in it:
+
+![Freelance SEO](https://consultantsussex.com/wp-content/uploads/2020/07/SEO-Expert.jpg)
+
 ### Freelance SEO Support
 
 Having trouble with Freelance SEO? Check out our [blog](https://consultantsussex.com/feed-your-head/) where you will find lots of useful information all about Search Engine Optimisation and get in touch when you're ready, so we can help you sort it out.
